@@ -27,7 +27,7 @@ export const OrderBook = [
     LastUpdateDateTime: "18-07-2025 13:02:26",
     OrderExpiryDate: "01-01-1980 00:00:00",
     CancelRejectReason: "",
-    OrderUniqueIdentifier: "NDWA_ROLLING",
+    OrderUniqueIdentifier: "NDWA_ROLLING", // Strategy
     OrderLegStatus: "SingleOrderLeg",
     BoLegDetails: 0,
     IsSpread: false,
